@@ -35,7 +35,7 @@
     "ethjs-abi": "0.2.1",
     "ethjs-contract": "0.2.3",
     "immutable": "4.0.0-rc.9",
-    "ipfs-mini": "1.1.2",
+    "ipfs-mini": "^1.1.5",
     "jazzicon": "1.5.0",
     "localforage": "1.7.2",
     "lodash": "4.17.10",

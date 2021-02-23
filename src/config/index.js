@@ -1,5 +1,5 @@
 // ipfs multihash to retrieve ABIs
-export const ipfsABIsHash = 'QmdvnGG7NCLsH5u4kxe2pcVcDGvxNtfouccRHBT64jvPGr'
+export const ipfsABIsHash = 'QmYaH7f36HjQcqadEXkM9vjMiU3f3vhwYjpnJ1adAB97Rm'
 export const ipfsTokensHash = 'QmRH8e8ssnj1CWVepGvAdwaADKNkEpgDU5bffTbeS6JuG9'
 // hardcoded FORCED registry address
 export const hardcodedRegistryAddress = ''
@@ -45,6 +45,18 @@ export const registries = {
       tokenSymbol: 'HAIR',
       tokenName: 'Ethair',
       multihash: 'QmdvnGG7NCLsH5u4kxe2pcVcDGvxNtfouccRHBT64jvPGr',
+    },
+  ],
+  zosma: [
+    {
+      name: 'The DAppNode Registry',
+      tokenAddress: '0x1037370683b01A3e3171BDd4540C1D371F26A15C',
+      votingAddress: '0xe8dbadac4C77e74A84D620E9F11235c4fa4B5501',
+      parameterizerAddress: '0xF688ED687165f755317014cD6CF7B8a18f26704F',
+      registryAddress: '0x8665b77ceA91004c4Bac54B7fA8cbE539CcfCCea',
+      tokenSymbol: 'TCRT',
+      tokenName: 'TCRToken',
+      multihash: 'QmYaH7f36HjQcqadEXkM9vjMiU3f3vhwYjpnJ1adAB97Rm',
     },
   ],
   ganache: [
